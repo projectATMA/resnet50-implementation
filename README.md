@@ -4,8 +4,6 @@ ATMA is a startup project continuation of Project M by IPMD, Inc.
 
 [Original repository on GitHub](https://github.com/IvanVargas8/projectATMA)
 
-<<<<<<< HEAD
-=======
 ## Introduction
 Project ATMA (Artifial Tragedy Monitor and Autoresponder) is an Artificial Intelligence platform
 that is able to recognize violent crime, fires, and medical tragedies. Millions of people across
@@ -29,7 +27,6 @@ In general, in a deep convolutional neural network, several layers are stacked a
 ResNets take activations from one layer and feed it into another layer much deeper in the network. This is called "Skip connections". they work because the identity function is easy for residual blocks to learn, as the same input is used and transferred into a deeper layer and in the case that the weights/bias fails to change the input (by applying weight/bias decay), the relu goes back to the skipped input. Thereby learning the identity function.
 
 ## Resources
-<<<<<<< HEAD
 [Deep Residual Learning for Image Recognition by He et al.](https://arxiv.org/abs/1512.03385)
 [Identity Mappings in Deep Residual Networks by He et al.](https://arxiv.org/abs/1603.05027)
 Youtube videos explaining Residual Networks by Andrew Ng
@@ -42,22 +39,6 @@ Youtube videos explaining Residual Networks by Andrew Ng
 [Keras ResNet50 Implementation](https://github.com/raghakot/keras-resnet)
 [Imagenet trained Keras Models](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
 [What is a deep neural network](https://www.quora.com/What-is-the-deep-neural-network-known-as-%E2%80%9CResNet-50%E2%80%9D)
->>>>>>> 823058defdc57d1d1883ff4f095c16968af6bf5f
-=======
-[Deep Residual Learning for Image Recognition by He et al.](https://arxiv.org/abs/1512.03385)  
-[Identity Mappings in Deep Residual Networks by He et al.](https://arxiv.org/abs/1603.05027)  
-Youtube videos explaining Residual Networks by Andrew Ng  
-    - [ResNets](https://www.youtube.com/watch?time_continue=1&v=K0uoBKBQ1gA)  
-    - [Why ResNets work?](https://www.youtube.com/watch?v=GSsKdtoatm8)  
-    - [Network in Network architecture](https://www.youtube.com/watch?v=9EZVpLTPGz8)  
-[Detailed graph of ResNet50 architecture](http://ethereon.github.io/netscope/#/gist/db945b393d40bfa26006)  
-[Deep Residual Networks](https://github.com/KaimingHe/deep-residual-networks)  
-[Graph](http://ethereon.github.io/netscope/#/gist/db945b393d40bfa26006)  
-[Keras ResNet50 Implementation](https://github.com/raghakot/keras-resnet)  
-[Imagenet trained Keras Models](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)  
-[What is a deep neural network](https://www.quora.com/What-is-the-deep-neural-network-known-as-%E2%80%9CResNet-50%E2%80%9D)  
-
 
 ## License
 MIT license
->>>>>>> 2ff79335284dbbb69ada5a9c4a9e8dc704c9ceec
