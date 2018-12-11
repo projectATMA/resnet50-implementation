@@ -1,5 +1,4 @@
 ########################################################################
-#
 # Functions for downloading and extracting data-files from the internet.
 #
 # Implemented in Python 3.5
