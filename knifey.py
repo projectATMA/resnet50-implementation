@@ -1,5 +1,4 @@
 ########################################################################
-#
 # Functions for downloading the Knifey-Spoony data-set from the internet
 # and loading it into memory. Note that this only loads the file-names
 # for the images in the data-set and does not load the actual images.
