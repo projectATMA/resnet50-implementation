@@ -1,4 +1,5 @@
 ################################################################
+
 # Python module and script for converting videos to images
 #
 # Can also be run as script by typing:
